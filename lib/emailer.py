@@ -1,0 +1,1 @@
+# Will send status codes about the bot to the email, including errors and position closes.

@@ -1,0 +1,1 @@
+# Class that contains a model which has the ability to train, predict, and test given any amount of pre-formatted data

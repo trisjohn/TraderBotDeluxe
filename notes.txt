@@ -1,0 +1,10 @@
+TO DO:
+    Save position data on entry
+        last 17 candles
+        opentime
+        tickets
+
+    Track max profit a position hits, use this to judge when target is hit
+    2s = risk
+    s = risk/2
+    t/s * risk/2 = target_profit

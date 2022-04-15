@@ -1,0 +1,5 @@
+setup.py
+DataMiner.egg-info/PKG-INFO
+DataMiner.egg-info/SOURCES.txt
+DataMiner.egg-info/dependency_links.txt
+DataMiner.egg-info/top_level.txt

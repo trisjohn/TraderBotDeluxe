@@ -1,0 +1,5 @@
+setup.py
+metyBoi.egg-info/PKG-INFO
+metyBoi.egg-info/SOURCES.txt
+metyBoi.egg-info/dependency_links.txt
+metyBoi.egg-info/top_level.txt

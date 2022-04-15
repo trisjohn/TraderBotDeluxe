@@ -1,0 +1,5 @@
+setup.py
+tradeboideluxe.egg-info/PKG-INFO
+tradeboideluxe.egg-info/SOURCES.txt
+tradeboideluxe.egg-info/dependency_links.txt
+tradeboideluxe.egg-info/top_level.txt

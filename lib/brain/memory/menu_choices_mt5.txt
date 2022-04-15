@@ -1,0 +1,3 @@
+{"about": "Enter a new position", "value": "New Order", "children": []}
+{"about": "Adjust settings like stop/take/trail distance, break even, and risk", "value": "Order Management", "children": []}
+{"about": "Account status, win rate, and analytics", "value": "Account Info", "children": []}
